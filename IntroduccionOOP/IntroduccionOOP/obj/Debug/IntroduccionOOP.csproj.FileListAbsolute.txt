@@ -1,0 +1,10 @@
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\bin\Debug\IntroduccionOOP.exe.config
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\bin\Debug\IntroduccionOOP.exe
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\bin\Debug\IntroduccionOOP.pdb
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.csproj.AssemblyReference.cache
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.Form1.resources
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.Properties.Resources.resources
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.csproj.GenerateResource.cache
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.exe
+C:\Users\wilbe\source\repos\IntroduccionOOP\IntroduccionOOP\obj\Debug\IntroduccionOOP.pdb
